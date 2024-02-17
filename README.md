@@ -7,7 +7,7 @@ Kelompok 4:
 - Carthy Arung | 220401010126
 - Dara Nailah Ikhsyan | 220401010091
 
-## 1. Laporan Aplikasi
+## Laporan Aplikasi
 Berikut Laporan aplikasi dengan fungsi CRUD untuk Login dan Manajemen Akses User dengan enkripsi data menggunakan AES :
 
 ### Inisialisasi Library
